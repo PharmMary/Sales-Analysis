@@ -1,4 +1,5 @@
-# Sales-Analysis
+# Sales-Analysis using Excel
+![](https://github.com/PharmMary/Sales-Analysis/blob/main/Sales%20Dashboard%20pix.png)
 ## The client's goal was to gain insights into the company's dataset. To enable me do a proper analysis, using excel, I had to answer some questions using the dataset provided by the company.
 ## Converted the dataset to an excel table, created pivot tables and created an interactive dashboard.
 ## Below are a summary of some of the  insights:
