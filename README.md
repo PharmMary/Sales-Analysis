@@ -17,10 +17,15 @@ Converted the dataset to an excel table, created pivot tables and created an int
 
 ![](https://github.com/PharmMary/Sales-Analysis/blob/main/Sales%20Dashboard%20pix.png)
 
-## INSIGHTS:
--Majority of the customers are male, and most of the company's profit came from the young adult group.
--Company sells a wide range of products, phones recorded the product with highest cost price and revenue, but the least profit while accessories recorded the highest profit.
-- Company made a profit of about 2.2million from July 2015 to July 2016.
-
-## RECOMMENDATIONS
+## A FEW OF THE INSIGHTS:
+- The General Overview shows that the company had a total transaction of 34,866, from they generated a profit of 2,261,609 naira only, between June 2015 and June 2016
+- Majority of the customers are male, and most of the company's profit came from the young adult group.
+- Company sells a wide range of products, phones recorded the product with highest cost price and revenue, then accessories and the least is clothing.
+- Accessories generated the highest profit, then clothings and the least profit was recorded under the phone category
+- The States with the highest profit was Lagos, Abuja and Akwa-Ibom State
+  
+## A FEW RECOMMENDATIONS TO THE COMPANY
+- Invest more capital on accessories, if there is limited capital, then minimise the capital invested on phones category. Focus on the phone brands that make sales.
+- Introduce seasonal promos that can increase the purchase of phones.
+- Carry out a survey the will help the company understand why the aged and elderly record the least profit, based on the result, develop a scheme or package that will address the issues.
 
